@@ -1,0 +1,29 @@
+# Ambientes virtuais
+_env/
+venv/
+.env/
+*.env
+
+# Dados e bancos de dados
+chroma_db/
+*.sqlite3
+*.db
+
+# Pastas grandes e não essenciais
+literature/
+
+# Arquivos de cache e temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do VS Code
