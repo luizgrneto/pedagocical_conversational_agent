@@ -10,7 +10,7 @@ chroma_db/
 *.db
 
 # Pastas grandes e não essenciais
-literature/
+# literature/
 
 # Arquivos de cache e temporários
 __pycache__/
