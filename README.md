@@ -14,6 +14,7 @@ Este repositório contém código e notebooks para um agente conversacional peda
 
 ## Diretórios
 
+```
 pedagogical_conversational_agent/
 │
 ├── src/
@@ -57,6 +58,7 @@ pedagogical_conversational_agent/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Requisitos
 
