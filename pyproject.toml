@@ -1,0 +1,5 @@
+[project]
+name = "Pedagogical Conversational Agent"
+version = "0.1.0"
+description = "WIP: RAG metrics + LLM-as-a-judge Chatbot por onboarding training and general educational purposes."
+authors = [{name="Luiz Neto"}]

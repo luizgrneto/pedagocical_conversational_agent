@@ -1,5 +1,1 @@
-ML models. It’s suitable for any use case with fully managed infrastructure, tools, and workﬂows.
-SageMaker provides purpose-built tools for MLOps to automate processes across the ML lifecycle. By using
-Sagemaker for MLOps tools, you can quickly achieve level 2 MLOps maturity at scale.
-Here are key features of SageMaker you can use:
-ning systems.\nistently deployed across various environments.
+invalid type: string "Continuous training automatically retrains ML models for redeployment\nContinuous monitoring concerns data monitoring and model monitoring using metrics related to\nbusiness\nModel governance\nhttps://aws.amazon.com/what-is/mlops/\n3/9\n11/11/25, 8:50 PM\nWhat is MLOps? - Machine Learning Operations Explained - AWS\nnd can be consistently deployed across various environments.
